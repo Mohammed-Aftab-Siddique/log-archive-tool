@@ -19,7 +19,7 @@ chmod +x log-archive-tool.sh
 ```
 
 # Run the script
-To run the script type `./linux-server-stats.sh` and enjoy.
+To run the script type `./log-archive-tool.sh` and enjoy.
 
 # Sample Output
 ```bash
